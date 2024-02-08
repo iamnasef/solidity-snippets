@@ -40,7 +40,7 @@ I wanted a place to test miscellaneous solidity snippets .
 | [Blockchain](https://www.ibm.com/topics/blockchain)                           | A shared, immutable ledger that facilitates the process of recording transactions and tracking assets in a business network                 
 | [Ethereum](https://ethereum.org/)                 | A decentralized blockchain with smart contract functionality  
 | [Solidity](https://ethereum.org/)                 | An  object-oriented programming language for implementing smart contracts on various blockchain platforms, most notably, Ethereum                                    
-| -R-[Markdown Guide](https://www.markdownguide.org/)    | A reference guide that explains how to use markdown                                 
+| [Markdown Guide](https://www.markdownguide.org/)    | A reference guide that explains how to use markdown                                 
 
 ## Contact Me
 <p align="center">
